@@ -1,2 +1,5 @@
-# jetson-nano-project
- 
+# Face Recognition
+
+'''
+sudo apt-get update
+'''
